@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WEBPEPE\WEBPEPE.csproj" />
+  <Project Path="WEBPEPE.Application\WEBPEPE.Application.csproj" />
+  <Project Path="WEBPEPE.Domain\WEBPEPE.Domain.csproj" />
+  <Project Path="WEBPEPE.Infrastructure\WEBPEPE.Infrastructure.csproj" />
+</Solution>
